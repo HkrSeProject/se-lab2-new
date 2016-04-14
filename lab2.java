@@ -9,6 +9,8 @@ public class lab2 {
 			System.out.println(i);
 		}
 		System.out.println("Hello GitHub!");
+				System.out.println("Hello xx!");
+
 	}
 
 }
